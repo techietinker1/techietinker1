@@ -1,10 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Techie Tinker!
+# 👋 Hi, I'm Rupam Kumari
 
-### 💻 B.Tech CSE Student | 📊 Data Analytics & 🤖 Machine Learning
+### 📊 Data Analyst | ⚙️ Backend Developer | 🤖 ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Machine+Learning;Learning+DSA+with+Java;Building+Projects+%26+Learning+Every+Day;Turning+Ideas+into+Code+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Analytics+%7C+Machine+Learning;Python+%7C+FastAPI+%7C+TensorFlow;Building+Projects+%26+Learning+Every+Day;Turning+Data+into+Insights+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br>
+
+<a href="https://github.com/techietinker1">
+<img src="https://img.shields.io/badge/GitHub-techietinker1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -12,104 +18,184 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a **4th-year B.Tech CSE student** specializing in **Data Analytics & Machine Learning**.
+I'm a **4th-year B.Tech Computer Science and Engineering student** interested in **Data Analytics, Backend Development, and Machine Learning**.
 
-* 📊 Interested in **Data Analytics, Machine Learning & AI**
-* ☕ Currently learning **DSA with Java**
-* 🐍 Working with **Python**
-* 🗄️ Exploring **SQL & Data Analytics**
-* 🧠 Improving my problem-solving and programming skills
+* 📊 Interested in **Data Analytics & Data Visualization**
+* 🤖 Exploring **Machine Learning & Deep Learning**
+* ⚙️ Backend development with **Python & FastAPI**
+* 🧠 Currently learning **Data Structures & Algorithms with Java**
+* 📈 Interested in turning data into meaningful insights
+* 💻 Building practical projects and improving my problem-solving skills
 * 🚀 Preparing for technical placements
-* 💡 I enjoy learning by building projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
-### 📊 Data & Machine Learning
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
+
+**FastAPI • Pydantic • REST APIs • CRUD Operations**
+
+### 🤖 Machine Learning & Deep Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+</p>
+
+**TensorFlow • Keras • OpenCV • T5**
+
+### 📊 Data Analytics & Visualization
+
+**SQL • Tableau • Power BI**
 
 ### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🖼️ Image Inpainting
+### Backend Developer Intern — Sandspace Technologies
 
-A computer vision / machine learning project focused on restoring missing or damaged portions of images.
+**Remote | May 2026**
 
-🔗 [View Repository](https://github.com/techietinker1/Image-Inpainting)
-
----
-
-### 🛡️ Phishing URL Detection
-
-A machine-learning project focused on detecting potentially malicious or phishing URLs.
-
-🔗 [View Repository](https://github.com/techietinker1/Phishing-URL-Detection)
+* Developed and maintained backend APIs using **Python and FastAPI**
+* Worked with API endpoints and request/response handling
+* Worked on backend application logic
 
 ---
 
-### 📈 Predictive Analysis
+# 🚀 Domain Projects
 
-A data-focused project exploring predictive analysis using machine learning techniques.
+## 🤖 ARIMeet — Automatic Group Discussion Scoring System
 
-🔗 [View Repository](https://github.com/techietinker1/Predictive-Analysis)
+**Python • T5 • Tableau**
 
----
+An AI-based system for analyzing group discussions and visualizing participant performance through interactive dashboards.
 
-### 🧮 Python Calculator
+📄 The project was also presented as a research paper at **ICCET 2026**.
 
-A simple Python calculator project created while developing programming fundamentals.
-
-🔗 [View Repository](https://github.com/techietinker1/python-calculator)
+🔗 **[View Project →](https://github.com/techietinker1/ARIMeet)**
 
 ---
 
-## 📚 Currently Learning
+## 🖼️ Image Inpainting
 
-<div align="center">
+**Python • TensorFlow/Keras • OpenCV**
 
-```text
-                    🎯 DSA WITH JAVA
+A deep-learning-based image inpainting system designed to remove unwanted objects and restore missing regions in images.
 
-                         │
-                         ▼
-
-                  📦 Data Structures
-                         │
-                         ▼
-                   ⚙️ Algorithms
-                         │
-                         ▼
-                  🧠 Problem Solving
-                         │
-                         ▼
-                  💻 Coding Practice
-                         │
-                         ▼
-                 🚀 Placement Prep
-```
-
-</div>
+🔗 **[View Repository →](https://github.com/techietinker1/Image-Inpainting)**
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 Other Projects
+
+## 🛡️ Phishing URL Detection
+
+A machine-learning project focused on detecting potentially malicious and phishing URLs.
+
+🔗 **[View Repository →](https://github.com/techietinker1/Phishing-URL-Detection)**
+
+---
+
+## 📈 Predictive Analysis
+
+A data-focused project exploring predictive analysis and machine-learning techniques.
+
+🔗 **[View Repository →](https://github.com/techietinker1/Predictive-Analysis)**
+
+---
+
+## 🧮 Python Calculator
+
+A Python-based calculator project created while developing programming fundamentals.
+
+🔗 **[View Repository →](https://github.com/techietinker1/python-calculator)**
+
+---
+
+## 🐍 Python Practice
+
+A collection of Python practice programs and exercises used to strengthen programming fundamentals.
+
+🔗 **[View Repository →](https://github.com/techietinker1/python-practice)**
+
+---
+
+# 📚 Academic Project
+
+## 📚 Bookstore API
+
+**Python • FastAPI • Pydantic • REST API**
+
+Developed a RESTful Bookstore API with:
+
+* CRUD operations
+* Search functionality
+* Schema validation
+* Exception handling
+
+---
+
+# 🏆 Hackathons & Participation
+
+### 🏆 Smart India Hackathon — 2025
+
+**Topic:** Maximizing Section Throughput using AI-Powered Precise Train Traffic Control
+
+### 💡 XPERIA 360° Hackathon — 2026
+
+**Topic:** Web Development – Built a Digital Public Infrastructure for Sustainable Cities
+
+### 🚀 NextGen Innovation Expo — 2026
+
+Participated in the innovation-focused event at CUTM-PKD.
+
+### 💻 IEEE CS SBC Inauguration Event — 2026
+
+Participated in the IEEE Computer Society Student Branch Chapter event.
+
+---
+
+# 📜 Certifications & Conferences
+
+### 📚 Data Structures and Algorithms — GeeksforGeeks
+
+**February 2026**
+
+Covered algorithm design, complexity analysis, and structured problem-solving techniques.
+
+### 🎓 ICCET 2026
+
+**14th International Conference on Contemporary Engineering and Technology**
+
+📄 Paper Presentation:
+
+**"An Automatic Group Discussion Scoring System using Artificial Intelligence"**
+
+### 📊 30 Days Power BI Micro Course — SkillCourse
+
+**August 2026**
+
+Completed a 30-day course focused on Power BI and data visualization.
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -121,69 +207,101 @@ A simple Python calculator project created while developing programming fundamen
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=techietinker1&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=techietinker1&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/techietinker1/techietinker1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://raw.githubusercontent.com/techietinker1/techietinker1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 💡 My Learning Philosophy
+# 📚 Currently Learning
 
 <div align="center">
 
-> **Learn → Build → Make Mistakes → Improve → Repeat 🔥**
+### ☕ Data Structures & Algorithms with Java
+
+```text
+Java Fundamentals
+       ↓
+Data Structures
+       ↓
+Algorithms
+       ↓
+Problem Solving
+       ↓
+Coding Practice
+       ↓
+Technical Interview Preparation
+```
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 Current Focus
 
-* ☕ Strengthen Java fundamentals
-* 🧠 Master DSA
-* 💻 Solve coding problems regularly
-* 📊 Improve Data Analytics skills
-* 🤖 Build more Machine Learning projects
-* 🗄️ Strengthen SQL
-* 🎯 Prepare for technical interviews
-* 🚀 Become placement-ready
+<table align="center">
+<tr>
+<td align="center">📊<br><b>Data Analytics</b></td>
+<td align="center">🤖<br><b>Machine Learning</b></td>
+<td align="center">⚙️<br><b>Backend Development</b></td>
+<td align="center">🧠<br><b>DSA</b></td>
+</tr>
+</table>
 
 ---
 
-## 📈 My Developer Journey
+# 💡 My Developer Philosophy
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation">
+### **Learn → Build → Experiment → Improve → Repeat 🔥**
+
+</div>
+
+---
+
+# 💻 Coding Journey
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding Animation"/>
 
 </div>
 
 <p align="center">
-Every project is a step forward. 🚀
+Building skills one project at a time. 🚀
 </p>
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/techietinker1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
@@ -194,6 +312,6 @@ Every project is a step forward. 🚀
 
 ### ✨ Thanks for visiting my profile! ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
 
 </div>
