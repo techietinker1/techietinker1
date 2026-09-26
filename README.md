@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/GitHub-techietinker1-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://rupam-kumari.onrender.com">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -296,11 +300,7 @@ Building skills one project at a time. 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://rupam-kumari.onrender.com">
 <img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
